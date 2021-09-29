@@ -1,0 +1,26 @@
+{
+	"name": "theme-it-theme",
+	"displayName": "Theme-it theme for vsc",
+	"description": "Theme-it theme for vscode is a beautifull dark theme for everyone to use.",
+	"version": "1.0.0",
+	"author": "Theme-it",
+	"category": "Theme",
+	"publisher": "themit",
+	"icon": "icon.png",
+	"repository": "https://github.com/theme-it/vsc-theme",
+	"engines": {
+		"vscode": "^1.17.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Theme it vsc theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/theme-it-color-theme.json"
+			}
+		]
+	}
+}
