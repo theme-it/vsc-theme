@@ -22,10 +22,10 @@ Depending on your platform it is located in the following folders:
 Clone the theme repository as `theme-it-theme`:
 
 ```shell
-git clone https://github.com/theme-it/vsc-theme.git city-lights-theme
+git clone https://github.com/theme-it/vsc-theme.git "theme-it"
 ```
 Afterwards, you will need to activate the theme via
-`File > Preferences > Color Theme > City Lights`
+`File > Preferences > Color Theme > theme-it`
 
 
 ## Feedback/Issues
